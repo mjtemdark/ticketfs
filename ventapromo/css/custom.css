@@ -1,0 +1,51 @@
+.check
+{
+	background: linear-gradient(#23c85f,green);
+}
+.uncheck
+{
+	background: linear-gradient(crimson,#f37d7d);
+}
+#checkticket
+{
+	cursor: pointer;
+	margin: 0 auto;
+	display:inline-table;
+}
+
+#epay
+{
+
+	float: right;
+	margin-top: 3%;
+	margin-right: 2px;
+	cursor: pointer;
+	display: table-cell;
+}
+#printable tr
+{
+	font-family: Arial;
+	font-size: 20px;
+	text-align: center;
+}
+#cont-table{
+	width: 70%;
+	text-align: center;
+	margin: 0 auto;
+}
+#printable2
+{
+	width:60%;
+}
+.tp
+{
+float: left;
+}
+.pll
+{
+	color: #1b69c7;
+}
+.prr
+{
+	color: #f8cd11;
+}
